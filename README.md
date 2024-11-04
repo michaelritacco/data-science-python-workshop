@@ -1,1 +1,1 @@
-# Data-Science-Python-Workshop
+# Data Science Python Workshop
